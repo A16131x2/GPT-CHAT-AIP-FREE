@@ -14,7 +14,9 @@
 23个plus/team
 
 ## 4. [ChatFire](https://api.chatfire.cn/register?aff=ulst)
-这个不是账号，是plus弄成了API！注册送0.5刀，但是支持谷歌临时邮箱、outlook等邮箱注册！！！！临时谷歌邮箱网站：
+这个不是账号，是plus弄成了API！注册送0.5刀，但是支持谷歌临时邮箱、outlook等邮箱注册！！！！
+临时谷歌邮箱网站：
+
 [SMAIL PRO | Temp mail - Temp Gmail - Disposable Fake Email](https://smailpro.com/)，
 
 [临时邮箱,一次性邮箱,10分钟邮箱,24小时邮箱,临时邮箱专业服务 - 22.Do](https://22.do/)。
